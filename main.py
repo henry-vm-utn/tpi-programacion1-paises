@@ -20,10 +20,10 @@ def normalizar_texto(texto):
 # Esta funcion arma el diccionario de un pais.
 def crear_pais(nombre, poblacion, superficie, continente):
     pais = {
-        "nombre": nombre,
+        "nombre": nombre.strip().title(),
         "poblacion": poblacion,
         "superficie": superficie,
-        "continente": continente
+        "continente": continente.strip().title()
     }
     return pais
 
