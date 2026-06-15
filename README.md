@@ -145,14 +145,14 @@ Cantidad de paises por continente
 
 ## Participacion de los integrantes
 
-Integrante 1: Henry Gabriel Ortiz
+Integrante 1: Ortiz Henry Gabriel
 Integrante 2: Torrez Alexis Rodrigo
 
 ## Link al video demostrativo
 
-[A ACTUALIZAR- ALEXIS]
+https://www.youtube.com/watch?v=WLgkbKGouqU
 
-## Link a la documentacion PDF
+## Documentacion PDF
 
 El archivo PDF se encuentra en la raiz del repositorio con el nombre:
 
@@ -162,7 +162,7 @@ informe_TPI_paises.pdf
 
 Link directo al PDF:
 
-[A ACTUALIZAR A QUITAR - ALEXIS]
+https://github.com/henry-vm-utn/tpi-programacion1-paises/blob/main/informe_TPI_paises.pdf
 
 ## Estado del proyecto
 Proyecto terminado y listo para entrega final.
