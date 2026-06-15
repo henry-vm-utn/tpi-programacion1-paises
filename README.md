@@ -146,10 +146,7 @@ Cantidad de paises por continente
 ## Participacion de los integrantes
 
 Integrante 1: Henry Gabriel Ortiz
-Tareas realizadas: desarrollo del codigo, armado del dataset CSV, pruebas funcionales, documentacion tecnica, README y preparacion de la demostracion.
-
-Integrante 2: [COMPLETAR NOMBRE DEL INTEGRANTE]
-Tareas realizadas: [COMPLETAR TAREAS REALIZADAS]
+Integrante 2: Torrez Alexis Rodrigo
 
 ## Link al video demostrativo
 
@@ -168,5 +165,4 @@ Link directo al PDF:
 [A ACTUALIZAR A QUITAR - ALEXIS]
 
 ## Estado del proyecto
-En proceso de actualización de repositorio.
-Fase siguiente: Proyecto terminado y listo para entrega final.
+Proyecto terminado y listo para entrega final.
